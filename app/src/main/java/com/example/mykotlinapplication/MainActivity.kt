@@ -64,7 +64,7 @@ class MainActivity : AppCompatActivity() {
 
     private fun test4() {
         var myString = ""
-       val myArray = listOf<String>("1", "3", "5", "7", "9")
+        val myArray = listOf<String>("1", "3", "5", "7", "9")
         myArray.forEach { myString += it }
         binding.textView.text = myString
     }
