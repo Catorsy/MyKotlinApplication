@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">MyKotlinApplication</string>
     <string name="object_from_data_class">Объект из дата класса</string>
+    <string name="copy_object">Copy object</string>
+    <string name="foreach">Цикл foreach</string>
+    <string name="for_cycle">Цикл for</string>
+    <string name="repeat_cycle">Repeat</string>
 </resources>
