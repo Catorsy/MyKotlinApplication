@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyKotlinApplication</string>
+    <string name="object_from_data_class">Объект из дата класса</string>
+</resources>
